@@ -1,0 +1,5 @@
+[package]
+name = "cirq"
+version = "0.1.0"
+authors = ["Jarrod Bennett <jarrodbennett159@gmail.com>"]
+edition = "2021"
